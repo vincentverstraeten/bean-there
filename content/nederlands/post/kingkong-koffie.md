@@ -3,9 +3,9 @@ author = "John Doe"
 categories = ["Test"]
 date = 2022-11-12T23:00:00Z
 description = "Test"
-images = ["/images/kingkongcappu.jpg", "/images/kingkongcoffee.jpg"]
+images = ["/images/kingkongcoffee.jpg", "/images/kingkongcappu.jpg"]
 tags = []
-title = "KingKong koffie"
+title = "KingKong koffie PROBEREN"
 type = "featured"
 
 +++
