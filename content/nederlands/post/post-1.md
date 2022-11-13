@@ -20,7 +20,7 @@ Producing creative, fresh projects is the key to standing out. Unique side proje
 innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at
 
 It’s no secret that the digital industry is booming. From exciting startups to global brands, companies
-are reaching out to digital agencies, respo![](/images/post/kingkongcappu.jpg)nding to the new possibilities available. However, the industry
+are reaching out to digital agencies, respo![](/images/kingkongcappu.jpg)nding to the new possibilities available. However, the industry
 is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.
 Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to
 innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at
