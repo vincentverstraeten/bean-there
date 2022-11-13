@@ -1,62 +1,62 @@
 - id: continue_reading
-  translation: Relecture Continue
+  translation: Lees verder
 
 - id: search_placeholder
-  translation: Tapez et appuyez sur Entrée ...
+  translation: Zoek en druk op enter
 
 - id: latest_article
-  translation: Dernier article
+  translation: Laatste artikel
 
 - id: categories
-  translation: Les catégories
+  translation: Categoriën
 
 - id: tags
-  translation: Mots clés
+  translation: tags
 
 - id: search
-  translation: Chercher
+  translation: Zoeken
 
 - id: date
-  translation: Date
+  translation: Datum
 
 - id: posted_by
-  translation: Publié par cet auteur
+  translation: Gepubliceerd door
 
 - id: send
-  translation: Envoyer maintenant
+  translation: Verzenden
 
 - id: name
-  translation: votre nom
+  translation: Uw naam
 
 - id: email 
-  translation: Votre adresse email
+  translation: Uw email adres
 
 - id: message
-  translation: Votre message ici
+  translation: Typ hier uw bericht
 
 - id: subscribe
-  translation: Abonnez-vous maintenant
+  translation: Abonneer u
 
 - id: write_email
-  translation: Formulaires de haine? Écrivez-nous par e-mail
+  translation: Vul het formulier in en email ons
 
 - id: subscribe_newsletter
-  translation: Abonnez-vous à la newsletter
+  translation: Volg onze nieuwsbrief
 
 - id: quick_links
-  translation: Liens rapides
+  translation: Snelle links
 
 - id: social
-  translation: Liens sociaux
+  translation: Social
 
 - id: back_to_home
-  translation: Back To Home
+  translation: Terug naar home
 
 - id: about_me
-  translation: À propos de moi
+  translation: Over mij
 
 - id: page_not_found
-  translation: Ooops! This Page Is Not Available
+  translation: Ooops! Je ben ergens verdwaald.
 
 - id: search_results_for
-  translation: Search results for
+  translation: Zoekresultaten voor.
