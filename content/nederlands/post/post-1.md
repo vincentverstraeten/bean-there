@@ -1,7 +1,8 @@
 ---
 title: test blogpost
 date: 2022-11-13T09:40:24.000+00:00
-images: []
+images:
+- "/images/kingkongcappu.jpg"
 author: John Doe
 description: This is meta description
 categories:
