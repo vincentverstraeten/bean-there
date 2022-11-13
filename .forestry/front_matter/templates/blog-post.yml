@@ -26,5 +26,3 @@ fields:
 - type: text
   name: type
   label: type
-pages:
-- content/nederlands/post/test.md
