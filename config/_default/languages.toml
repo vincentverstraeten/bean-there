@@ -12,7 +12,7 @@ footer_content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed d
 [Nl]
 languageName = "Nl"
 languageCode = "nl-nl"
-contentDir = "content/nl"
+contentDir = "content/nederlands"
 weight = 2
 # footer content
 footer_content = "Hier komt nederlandse tekst"
