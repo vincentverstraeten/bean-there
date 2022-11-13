@@ -2,7 +2,7 @@
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/logo.png"
+logo = "images/beanthere2.png"
 # use `x` with logo_width, example: "100x"
 logo_width = "150x"
 # logo text will only show when logo is missing.
@@ -104,8 +104,6 @@ button = "I Accept"
 sidebar = [
   "search",
   "about-me",
-  "promotion",
-  "subscription",
   "categories",
   "recent-post",
   "tags",
