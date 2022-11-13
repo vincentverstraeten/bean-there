@@ -20,9 +20,9 @@ sections:
   create: all
   match: "**/*"
 upload_dir: assets/images
-public_path: assets/images/post
-front_matter_path: ''
-use_front_matter_path: false
+public_path: "/images"
+front_matter_path: assets/images/post
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_env:
